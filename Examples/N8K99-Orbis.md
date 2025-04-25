@@ -10,4 +10,5 @@ tags:
   - "#CIF"
   - "#interdimensional"
   - "#cognitive-survival"
+Lifestage: 🌱 Seed
 ---

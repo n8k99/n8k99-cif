@@ -9,5 +9,7 @@ tags:
   - "#symbolic-drift"
   - "#CIF"
   - "#interdimensional"
-  - "#cognitive-survival"
+  - narrative_hook
+  - ContentandBrandOffice
+Lifestage: 🌱 Seed
 ---

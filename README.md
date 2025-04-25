@@ -10,6 +10,7 @@ tags:
   - "#CIF"
   - "#interdimensional"
   - "#cognitive-survival"
+Lifestage: 🌱 Seed
 ---
 # README: Project CIF (Cosmic Index Format)
 - [x] publish as public repo ⏳ 2025-04-21 ✅ 2025-04-25

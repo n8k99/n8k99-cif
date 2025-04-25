@@ -9,5 +9,5 @@ tags:
   - "#symbolic-drift"
   - "#CIF"
   - "#interdimensional"
-  - "#cognitive-survival"
+Lifestage: 🌱 Seed
 ---
