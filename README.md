@@ -12,7 +12,7 @@ tags:
   - "#cognitive-survival"
 ---
 # README: Project CIF (Cosmic Index Format)
-- [ ] publish as public repo ⏳ 2025-04-21 
+- [x] publish as public repo ⏳ 2025-04-21 ✅ 2025-04-25
 ## Overview
 
 This document outlines the foundational concept and long-range structure behind the Cosmic Index Format (CIF) and its implications for multiversal navigation, narrative propagation, and identity evolution.
